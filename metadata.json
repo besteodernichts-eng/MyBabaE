@@ -1,0 +1,6 @@
+{
+  "name": "ببعی من",
+  "description": "پلتفرم و اپلیکیشن جامع خرید و فروش دام سبک با شناسنامه دیجیتال، نرخ روز و پنل مدیریت",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
